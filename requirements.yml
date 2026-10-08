@@ -1,4 +1,4 @@
-name: customers
+name: temp
 channels:
   - conda-forge
   - defaults
